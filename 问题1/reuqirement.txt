@@ -1,0 +1,5 @@
+
+python版本：3.9.7
+TensorFlow版本：2.6.0
+keras版本：2.6.0
+stata版本：16.0
