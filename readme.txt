@@ -1,0 +1,1 @@
+依次执行data_process.py和predict.py即可得到预测结果。
